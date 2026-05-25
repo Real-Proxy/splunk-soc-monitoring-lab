@@ -36,7 +36,7 @@ SSH Logs / HTTP Logs
 
 # SSH Monitoring Dashboard
 
-![SSH Dashboard](screenshots/ssh_dashboard.png)
+![SSH Dashboard](Screenshots/ssh_dashboard.png)
 
 ## SSH Dashboard Features
 
@@ -51,7 +51,7 @@ SSH Logs / HTTP Logs
 
 # HTTP Monitoring Dashboard
 
-![HTTP Dashboard](screenshots/http_dashboard.png)
+![HTTP Dashboard](Screenshots/http_dashboard.png)
 
 ## HTTP Dashboard Features
 
